@@ -1,5 +1,4 @@
-# Rainstorm
-Concurrent, fault-tolerant cloud based file server using a web-based control interface and its own custom language. Rainstorm provides custom servers for a multitude of use cases varying from local text transfers to downloads from Amazon EC2 instances.
+Rainstorm aims to be a fast and scalable web storage service, allowing users to easily store and share their files living on the cloud. Your users will be able to upload files to their cloud storage and then share those files with other Rainstorm users.
 
 # Installation
 1. Install Elixir
