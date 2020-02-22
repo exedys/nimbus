@@ -1,5 +1,5 @@
 # Rainstorm
-Concurrent, fault-tolerant cloud based file server using a web-based control interface and its own custom language.
+Concurrent, fault-tolerant cloud based file server using a web-based control interface and its own custom language. Rainstorm provides custom servers for a multitude of use cases varying from local text transfers to downloads from Amazon EC2 instances.
 
 # Installation
 1. Install Elixir
